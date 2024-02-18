@@ -1,0 +1,5 @@
+OpenCue/
+__debug_*
+go-pycue
+bin/
+*.env
